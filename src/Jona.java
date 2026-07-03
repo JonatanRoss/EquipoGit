@@ -1,5 +1,6 @@
 public class Jona {
 
     private int medidaPENE = -222;
-    Private int Vamosdichoseneldía =67;
+    private int Vamosdichoseneldía =67;
+    private int Peneschupados = 99999;
 }
